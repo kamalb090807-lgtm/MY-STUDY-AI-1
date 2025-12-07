@@ -1,0 +1,359 @@
+{
+  "id": "1765086619131-swkapa",
+  "originalName": "Verilog HDL - Samir Palnitkar DPSD Book.pdf",
+  "filename": "1765086618106-Verilog_HDL_-_Samir_Palnitkar_DPSD_Book.pdf",
+  "path": "uploads\\1765086618106-Verilog_HDL_-_Samir_Palnitkar_DPSD_Book.pdf",
+  "size": 11714455,
+  "mimeType": "application/pdf",
+  "uploadedAt": "2025-12-07T05:50:19.131Z",
+  "chunks": [
+    {
+      "id": "1765086619130_0",
+      "text": "Verilog HDL"
+    },
+    {
+      "id": "1765086619130_1",
+      "text": "A guide to Digital Design"
+    },
+    {
+      "id": "1765086619130_2",
+      "text": "and Synthesis"
+    },
+    {
+      "id": "1765086619130_3",
+      "text": "Samir Palnitkar"
+    },
+    {
+      "id": "1765086619130_4",
+      "text": "SunSoft Press"
+    },
+    {
+      "id": "1765086619130_5",
+      "text": "1996"
+    },
+    {
+      "id": "1765086619130_6",
+      "text": "PART 1 BASIC VERILOG TOPICS 1"
+    },
+    {
+      "id": "1765086619130_7",
+      "text": "1 Overview of Digital Design with Verilog HDL 3"
+    },
+    {
+      "id": "1765086619130_8",
+      "text": "2 Hierarchical Modeling Concepts 11"
+    },
+    {
+      "id": "1765086619130_9",
+      "text": "3 Basic Concepts 27"
+    },
+    {
+      "id": "1765086619130_10",
+      "text": "4 Modules and Ports 47"
+    },
+    {
+      "id": "1765086619130_11",
+      "text": "5 Gate-Level Modeling 61"
+    },
+    {
+      "id": "1765086619130_12",
+      "text": "6 Dataflow Modeling 85"
+    },
+    {
+      "id": "1765086619130_13",
+      "text": "7 Behavioral Modeling 115"
+    },
+    {
+      "id": "1765086619130_14",
+      "text": "8 Tasks and Functions 157"
+    },
+    {
+      "id": "1765086619130_15",
+      "text": "9 Useful Modeling Techniques 169"
+    },
+    {
+      "id": "1765086619130_16",
+      "text": "PART 2 Advance Verilog Topics 191"
+    },
+    {
+      "id": "1765086619130_17",
+      "text": "10 Timing and Delays 193"
+    },
+    {
+      "id": "1765086619130_18",
+      "text": "11 Switch-Level Modeling 213"
+    },
+    {
+      "id": "1765086619130_19",
+      "text": "12 User-Defined Primitives 229"
+    },
+    {
+      "id": "1765086619130_20",
+      "text": "13 Programming Language Interface 249"
+    },
+    {
+      "id": "1765086619130_21",
+      "text": "14 Logic Synthesis with Verilog HDL 275"
+    },
+    {
+      "id": "1765086619130_22",
+      "text": "PART3 APPENDICES 319"
+    },
+    {
+      "id": "1765086619130_23",
+      "text": "A Strength Modeling and Advanced Net Definitions 321"
+    },
+    {
+      "id": "1765086619130_24",
+      "text": "B List of PLI Rountines 327"
+    },
+    {
+      "id": "1765086619130_25",
+      "text": "C List of Keywords, System Tasks, and Compiler Directives 343"
+    },
+    {
+      "id": "1765086619130_26",
+      "text": "D Formal Syntax Definition 345"
+    },
+    {
+      "id": "1765086619130_27",
+      "text": "E Verilog  Tidbits 363"
+    },
+    {
+      "id": "1765086619130_28",
+      "text": "F Verilog  Examples 367"
+    },
+    {
+      "id": "1765086619130_29",
+      "text": "Verilog HDL"
+    },
+    {
+      "id": "1765086619130_30",
+      "text": "A guide to Digital Design"
+    },
+    {
+      "id": "1765086619130_31",
+      "text": "and Synthesis"
+    },
+    {
+      "id": "1765086619130_32",
+      "text": "Samir Palnitkar"
+    },
+    {
+      "id": "1765086619130_33",
+      "text": "SunSoft Press"
+    },
+    {
+      "id": "1765086619130_34",
+      "text": "1996"
+    },
+    {
+      "id": "1765086619130_35",
+      "text": "PART 1 BASIC VERILOG TOPICS 1"
+    },
+    {
+      "id": "1765086619130_36",
+      "text": "1 Overview of Digital Design with Verilog HDL 3"
+    },
+    {
+      "id": "1765086619130_37",
+      "text": "2 Hierarchical Modeling Concepts 11"
+    },
+    {
+      "id": "1765086619130_38",
+      "text": "3 Basic Concepts 27"
+    },
+    {
+      "id": "1765086619130_39",
+      "text": "4 Modules and Ports 47"
+    },
+    {
+      "id": "1765086619130_40",
+      "text": "5 Gate-Level Modeling 61"
+    },
+    {
+      "id": "1765086619130_41",
+      "text": "6 Dataflow Modeling 85"
+    },
+    {
+      "id": "1765086619131_42",
+      "text": "7 Behavioral Modeling 115"
+    },
+    {
+      "id": "1765086619131_43",
+      "text": "8 Tasks and Functions 157"
+    },
+    {
+      "id": "1765086619131_44",
+      "text": "9 Useful Modeling Techniques 169"
+    },
+    {
+      "id": "1765086619131_45",
+      "text": "PART 2 Advance Verilog Topics 191"
+    },
+    {
+      "id": "1765086619131_46",
+      "text": "10 Timing and Delays 193"
+    },
+    {
+      "id": "1765086619131_47",
+      "text": "11 Switch-Level Modeling 213"
+    },
+    {
+      "id": "1765086619131_48",
+      "text": "12 User-Defined Primitives 229"
+    },
+    {
+      "id": "1765086619131_49",
+      "text": "13 Programming Language Interface 249"
+    },
+    {
+      "id": "1765086619131_50",
+      "text": "14 Logic Synthesis with Verilog HDL 275"
+    },
+    {
+      "id": "1765086619131_51",
+      "text": "PART3 APPENDICES 319"
+    },
+    {
+      "id": "1765086619131_52",
+      "text": "A Strength Modeling and Advanced Net Definitions 321"
+    },
+    {
+      "id": "1765086619131_53",
+      "text": "B List of PLI Rountines 327"
+    },
+    {
+      "id": "1765086619131_54",
+      "text": "C List of Keywords, System Tasks, and Compiler Directives 343"
+    },
+    {
+      "id": "1765086619131_55",
+      "text": "D Formal Syntax Definition 345"
+    },
+    {
+      "id": "1765086619131_56",
+      "text": "E Verilog  Tidbits 363"
+    },
+    {
+      "id": "1765086619131_57",
+      "text": "F Verilog  Examples 367"
+    },
+    {
+      "id": "1765086619131_58",
+      "text": "Verilog HDL"
+    },
+    {
+      "id": "1765086619131_59",
+      "text": "A guide to Digital Design"
+    },
+    {
+      "id": "1765086619131_60",
+      "text": "and Synthesis"
+    },
+    {
+      "id": "1765086619131_61",
+      "text": "Samir Palnitkar"
+    },
+    {
+      "id": "1765086619131_62",
+      "text": "SunSoft Press"
+    },
+    {
+      "id": "1765086619131_63",
+      "text": "1996"
+    },
+    {
+      "id": "1765086619131_64",
+      "text": "PART 1 BASIC VERILOG TOPICS 1"
+    },
+    {
+      "id": "1765086619131_65",
+      "text": "1 Overview of Digital Design with Verilog HDL 3"
+    },
+    {
+      "id": "1765086619131_66",
+      "text": "2 Hierarchical Modeling Concepts 11"
+    },
+    {
+      "id": "1765086619131_67",
+      "text": "3 Basic Concepts 27"
+    },
+    {
+      "id": "1765086619131_68",
+      "text": "4 Modules and Ports 47"
+    },
+    {
+      "id": "1765086619131_69",
+      "text": "5 Gate-Level Modeling 61"
+    },
+    {
+      "id": "1765086619131_70",
+      "text": "6 Dataflow Modeling 85"
+    },
+    {
+      "id": "1765086619131_71",
+      "text": "7 Behavioral Modeling 115"
+    },
+    {
+      "id": "1765086619131_72",
+      "text": "8 Tasks and Functions 157"
+    },
+    {
+      "id": "1765086619131_73",
+      "text": "9 Useful Modeling Techniques 169"
+    },
+    {
+      "id": "1765086619131_74",
+      "text": "PART 2 Advance Verilog Topics 191"
+    },
+    {
+      "id": "1765086619131_75",
+      "text": "10 Timing and Delays 193"
+    },
+    {
+      "id": "1765086619131_76",
+      "text": "11 Switch-Level Modeling 213"
+    },
+    {
+      "id": "1765086619131_77",
+      "text": "12 User-Defined Primitives 229"
+    },
+    {
+      "id": "1765086619131_78",
+      "text": "13 Programming Language Interface 249"
+    },
+    {
+      "id": "1765086619131_79",
+      "text": "14 Logic Synthesis with Verilog HDL 275"
+    },
+    {
+      "id": "1765086619131_80",
+      "text": "PART3 APPENDICES 319"
+    },
+    {
+      "id": "1765086619131_81",
+      "text": "A Strength Modeling and Advanced Net Definitions 321"
+    },
+    {
+      "id": "1765086619131_82",
+      "text": "B List of PLI Rountines 327"
+    },
+    {
+      "id": "1765086619131_83",
+      "text": "C List of Keywords, System Tasks, and Compiler Directives 343"
+    },
+    {
+      "id": "1765086619131_84",
+      "text": "D Formal Syntax Definition 345"
+    },
+    {
+      "id": "1765086619131_85",
+      "text": "E Verilog  Tidbits 363"
+    },
+    {
+      "id": "1765086619131_86",
+      "text": "F Verilog  Examples 367"
+    }
+  ]
+}
